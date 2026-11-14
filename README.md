@@ -148,34 +148,6 @@ Pegasus can start Android-side shells with **real root**:
 
 ---
 
-## 🛠️ Build from Source
-
-> Source code is **not published** in this repository.
-
-```sh
-# Requirements: JDK 17+, Android SDK (compileSdk 36), Gradle 9.0
-ANDROID_HOME=/path/to/android-sdk sh gradlew assembleDebug
-```
-
----
-
-## 📸 Highlights
-
-```
-  ╔══════════════════════════╗
-  ║   PEGASUS  TERMINAL      ║
-  ╚══════════════════════════╝
-  Ubuntu container via proot · type help for commands
-```
-
-- 🐧 `apt install git python3 nodejs` — full Ubuntu packages
-- 🌳 `su -c id` — real root when enabled
-- ✨ `figlet -f slant "HELLO"` — 332 fonts ready
-- 🤖 Slide up for AI chat — DeepSeek, streaming, markdown
-- 💾 Backup everything before you switch phones
-
----
-
 ## 📄 License
 
 All rights reserved — © Hevan09
