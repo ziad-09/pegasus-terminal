@@ -4,12 +4,12 @@
 
 **An Android terminal that feels like a workstation — AI chat, Ubuntu, real root, and more.**
 
-[![Release](https://img.shields.io/github/v/release/PEGASUS-TERMINAL-DEV/pegasus-terminal?style=flat-square&color=blue)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases)
-[![Download](https://img.shields.io/badge/download-APK-blue?style=flat-square&logo=android)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk)
+[![Release](https://img.shields.io/github/v/release/ziad-09/pegasus-terminal?style=flat-square&color=blue)](https://github.com/ziad-09/pegasus-terminal/releases)
+[![Download](https://img.shields.io/badge/download-APK-blue?style=flat-square&logo=android)](https://github.com/ziad-09/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-26%20(8.0)-green?style=flat-square)](#-install)
-[![Size](https://img.shields.io/badge/APK-22.8%20MB-orange?style=flat-square)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk)
+[![Size](https://img.shields.io/badge/APK-22.8%20MB-orange?style=flat-square)](https://github.com/ziad-09/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk)
 
-[📥 **Download APK**](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk) ·
+[📥 **Download APK**](https://github.com/ziad-09/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk) ·
 [📦 **All Releases**](../../releases) ·
 [⭐ **Star**](../../stargazers)
 
@@ -108,8 +108,8 @@
 
 | | |
 |---|---|
-| **Latest** | **[v1.1](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/tag/v1.1)** |
-| **APK** | [Pegasus_Terminal_1.1.apk](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk) (22.8 MB) |
+| **Latest** | **[v1.1](https://github.com/ziad-09/pegasus-terminal/releases/tag/v1.1)** |
+| **APK** | [Pegasus_Terminal_1.1.apk](https://github.com/ziad-09/pegasus-terminal/releases/download/v1.1/Pegasus_Terminal_1.1.apk) (22.8 MB) |
 | **Min Android** | 8.0 (API 26) |
 | **Target** | Android 14 (API 34) |
 
@@ -157,7 +157,7 @@ Pegasus can start Android-side shells with **real root**:
 
 ## 📄 License
 
-All rights reserved — © PEGASUS-TERMINAL-DEV
+All rights reserved — © ziad-09
 
 ---
 
