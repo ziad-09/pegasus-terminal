@@ -4,12 +4,12 @@
 
 **An Android terminal that feels like a workstation — AI chat, Ubuntu, real root, and more.**
 
-[![Release](https://img.shields.io/github/v/release/Hevan09/pegasus-terminal?style=flat-square&color=blue)](https://github.com/Hevan09/pegasus-terminal/releases)
-[![Download](https://img.shields.io/badge/download-APK-blue?style=flat-square&logo=android)](https://github.com/Hevan09/pegasus-terminal/releases/download/v1.1/pegasus-update.apk)
+[![Release](https://img.shields.io/github/v/release/PEGASUS-TERMINAL-DEV/pegasus-terminal?style=flat-square&color=blue)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases)
+[![Download](https://img.shields.io/badge/download-APK-blue?style=flat-square&logo=android)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/pegasus-update.apk)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-26%20(8.0)-green?style=flat-square)](#-install)
-[![Size](https://img.shields.io/badge/APK-21.2%20MB-orange?style=flat-square)](https://github.com/Hevan09/pegasus-terminal/releases/download/v1.1/pegasus-update.apk)
+[![Size](https://img.shields.io/badge/APK-22.8%20MB-orange?style=flat-square)](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/pegasus-update.apk)
 
-[📥 **Download APK**](https://github.com/Hevan09/pegasus-terminal/releases/download/v1.1/pegasus-update.apk) ·
+[📥 **Download APK**](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/pegasus-update.apk) ·
 [📦 **All Releases**](../../releases) ·
 [⭐ **Star**](../../stargazers)
 
@@ -108,8 +108,8 @@
 
 | | |
 |---|---|
-| **Latest** | **[v1.1](https://github.com/Hevan09/pegasus-terminal/releases/tag/v1.1)** |
-| **APK** | [pegasus-update.apk](https://github.com/Hevan09/pegasus-terminal/releases/download/v1.1/pegasus-update.apk) (21.2 MB) |
+| **Latest** | **[v1.1](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/tag/v1.1)** |
+| **APK** | [pegasus-update.apk](https://github.com/PEGASUS-TERMINAL-DEV/pegasus-terminal/releases/download/v1.1/pegasus-update.apk) (22.8 MB) |
 | **Min Android** | 8.0 (API 26) |
 | **Target** | Android 14 (API 34) |
 
