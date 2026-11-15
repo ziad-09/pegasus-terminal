@@ -157,7 +157,7 @@ Pegasus can start Android-side shells with **real root**:
 
 ## 📄 License
 
-All rights reserved — © Hevan09
+All rights reserved — © PEGASUS-TERMINAL-DEV
 
 ---
 
